@@ -1,4 +1,4 @@
-# Spring Boot with Spring Batch Example 1
+# Spring Boot with Spring Batch Example
 ## Load DB
 - Use insert.sql script to execute on the h2 console to load data before you run.
 ## Run Job to update User info to DB
